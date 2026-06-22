@@ -19,7 +19,7 @@ The system is designed as a **prototype for government-level cyber defense dashb
 
 ---
 
-## 🎯 Problem Statement Addressed
+##  Problem Statement Addressed
 
 **AI for Digital Public Safety: Defeating Counterfeiting, Fraud & Digital Arrest Scams**
 
@@ -59,7 +59,7 @@ Detects major fraud categories:
 
 ---
 
-### 🌐 3. Geospatial Fraud Intelligence (ASCII Heatmap)
+### 3. Geospatial Fraud Intelligence (ASCII Heatmap)
 
 * India-based region grid model
 * Risk propagation across states
@@ -116,7 +116,7 @@ Final Risk Intelligence Output
 
 ---
 
-## 🗺️ Geospatial Model
+##  Geospatial Model
 
 India is modeled as a structured regional grid:
 
@@ -128,7 +128,7 @@ Each region has:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Python (Core logic)
 * Rule-based NLP (no external ML dependency)
@@ -137,7 +137,7 @@ Each region has:
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ```
 🛡️ FRAUD RISK ANALYSIS
@@ -162,12 +162,12 @@ System Status: Threat Escalation Triggered
 
 ##  Why This Project Stands Out
 
-* ✔ Real-world inspired cyber fraud modeling
-* ✔ Explainable AI (no black-box prediction)
-* ✔ Geospatial intelligence layer
-* ✔ Epidemic-style fraud propagation model
-* ✔ SOC (Security Operations Center) style architecture
-* ✔ Fully offline and dependency-free system
+*  Real-world inspired cyber fraud modeling
+*  Explainable AI (no black-box prediction)
+*  Geospatial intelligence layer
+*  Epidemic-style fraud propagation model
+*  SOC (Security Operations Center) style architecture
+*  Fully offline and dependency-free system
 
 ---
 
